@@ -8,4 +8,6 @@ i wasted like 3 hours wondering why adjacency list were filled with a bunch of n
 
 turns out defining lists like `c = [[]]*N` actually makes it so every single inner list copies each other.
 
+but reading files using c++ is so complicated );
+
 list of mrt stations was taken and edited from https://github.com/xkjyeah/singapore-postal-codes/
