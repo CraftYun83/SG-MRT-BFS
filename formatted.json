@@ -1,0 +1,729 @@
+{
+    "Jurong East": [
+        1,
+        [
+            "NS1",
+            "EW24"
+        ]
+    ],
+    "Bukit Batok": [
+        2,
+        [
+            "NS2"
+        ]
+    ],
+    "Bukit Gombak": [
+        3,
+        [
+            "NS3"
+        ]
+    ],
+    "Choa Chu Kang": [
+        4,
+        [
+            "NS4"
+        ]
+    ],
+    "Yew Tee": [
+        5,
+        [
+            "NS5"
+        ]
+    ],
+    "Kranji": [
+        6,
+        [
+            "NS7"
+        ]
+    ],
+    "Marsiling": [
+        7,
+        [
+            "NS8"
+        ]
+    ],
+    "Woodlands": [
+        8,
+        [
+            "NS9"
+        ]
+    ],
+    "Admiralty": [
+        9,
+        [
+            "NS10"
+        ]
+    ],
+    "Sembawang": [
+        10,
+        [
+            "NS11"
+        ]
+    ],
+    "Yishun": [
+        11,
+        [
+            "NS13"
+        ]
+    ],
+    "Khatib": [
+        12,
+        [
+            "NS14"
+        ]
+    ],
+    "Yio Chu Kang": [
+        13,
+        [
+            "NS15"
+        ]
+    ],
+    "Ang Mo Kio": [
+        14,
+        [
+            "NS16"
+        ]
+    ],
+    "Bishan": [
+        15,
+        [
+            "NS17",
+            "CC15"
+        ]
+    ],
+    "Braddell": [
+        16,
+        [
+            "NS18"
+        ]
+    ],
+    "Toa Payoh": [
+        17,
+        [
+            "NS19"
+        ]
+    ],
+    "Novena": [
+        18,
+        [
+            "NS20"
+        ]
+    ],
+    "Newton": [
+        19,
+        [
+            "NS21",
+            "DT11"
+        ]
+    ],
+    "Orchard": [
+        20,
+        [
+            "NS22"
+        ]
+    ],
+    "Somerset": [
+        21,
+        [
+            "NS23"
+        ]
+    ],
+    "Dhoby Ghaut": [
+        22,
+        [
+            "NS24",
+            "NE6",
+            "CC1"
+        ]
+    ],
+    "City Hall": [
+        23,
+        [
+            "NS25",
+            "EW13"
+        ]
+    ],
+    "Raffles Place": [
+        24,
+        [
+            "NS26",
+            "EW14"
+        ]
+    ],
+    "Marina Bay": [
+        25,
+        [
+            "NS27"
+        ]
+    ],
+    "Marina South Pier": [
+        26,
+        [
+            "NS28"
+        ]
+    ],
+    "Pasir Ris": [
+        27,
+        [
+            "EW1"
+        ]
+    ],
+    "Tampines": [
+        28,
+        [
+            "EW2",
+            "DT32"
+        ]
+    ],
+    "Simei": [
+        29,
+        [
+            "EW3"
+        ]
+    ],
+    "Tanah Merah": [
+        30,
+        [
+            "EW4"
+        ]
+    ],
+    "Bedok": [
+        31,
+        [
+            "EW5"
+        ]
+    ],
+    "Kembangan": [
+        32,
+        [
+            "EW6"
+        ]
+    ],
+    "Eunos": [
+        33,
+        [
+            "EW7"
+        ]
+    ],
+    "Paya Lebar": [
+        34,
+        [
+            "EW8",
+            "CC9"
+        ]
+    ],
+    "Aljunied": [
+        35,
+        [
+            "EW9"
+        ]
+    ],
+    "Kallang": [
+        36,
+        [
+            "EW10"
+        ]
+    ],
+    "Lavender": [
+        37,
+        [
+            "EW11"
+        ]
+    ],
+    "Bugis": [
+        38,
+        [
+            "EW12",
+            "DT14"
+        ]
+    ],
+    "Tanjong Pagar": [
+        39,
+        [
+            "EW15"
+        ]
+    ],
+    "Outram Park": [
+        40,
+        [
+            "EW16",
+            "NE3"
+        ]
+    ],
+    "Tiong Bahru": [
+        41,
+        [
+            "EW17"
+        ]
+    ],
+    "Redhill": [
+        42,
+        [
+            "EW18"
+        ]
+    ],
+    "Queenstown": [
+        43,
+        [
+            "EW19"
+        ]
+    ],
+    "Commonwealth": [
+        44,
+        [
+            "EW20"
+        ]
+    ],
+    "Buona Vista": [
+        45,
+        [
+            "EW21",
+            "CC22"
+        ]
+    ],
+    "Dover": [
+        46,
+        [
+            "EW22"
+        ]
+    ],
+    "Clementi": [
+        47,
+        [
+            "EW23"
+        ]
+    ],
+    "Chinese Garden": [
+        48,
+        [
+            "EW25"
+        ]
+    ],
+    "Lakeside": [
+        49,
+        [
+            "EW26"
+        ]
+    ],
+    "Boon Lay": [
+        50,
+        [
+            "EW27"
+        ]
+    ],
+    "Pioneer": [
+        51,
+        [
+            "EW28"
+        ]
+    ],
+    "Joo Koon": [
+        52,
+        [
+            "EW29"
+        ]
+    ],
+    "Gul Circle": [
+        53,
+        [
+            "EW30"
+        ]
+    ],
+    "Tuas Crescent": [
+        54,
+        [
+            "EW31"
+        ]
+    ],
+    "Tuas West Road": [
+        55,
+        [
+            "EW32"
+        ]
+    ],
+    "Tuas Link": [
+        56,
+        [
+            "EW33"
+        ]
+    ],
+    "HarbourFront": [
+        57,
+        [
+            "NE1",
+            "CC29"
+        ]
+    ],
+    "Chinatown": [
+        58,
+        [
+            "NE4",
+            "DT19"
+        ]
+    ],
+    "Clarke Quay": [
+        59,
+        [
+            "NE5"
+        ]
+    ],
+    "Little India": [
+        60,
+        [
+            "NE7",
+            "DT12"
+        ]
+    ],
+    "Farrer Park": [
+        61,
+        [
+            "NE8"
+        ]
+    ],
+    "Boon Keng": [
+        62,
+        [
+            "NE9"
+        ]
+    ],
+    "Potong Pasir": [
+        63,
+        [
+            "NE10"
+        ]
+    ],
+    "Woodleigh": [
+        64,
+        [
+            "NE11"
+        ]
+    ],
+    "Serangoon": [
+        65,
+        [
+            "NE12",
+            "CC13"
+        ]
+    ],
+    "Kovan": [
+        66,
+        [
+            "NE13"
+        ]
+    ],
+    "Hougang": [
+        67,
+        [
+            "NE14"
+        ]
+    ],
+    "Buangkok": [
+        68,
+        [
+            "NE15"
+        ]
+    ],
+    "Sengkang": [
+        69,
+        [
+            "NE16"
+        ]
+    ],
+    "Punggol": [
+        70,
+        [
+            "NE17"
+        ]
+    ],
+    "Bras Basah": [
+        71,
+        [
+            "CC2"
+        ]
+    ],
+    "Esplanade": [
+        72,
+        [
+            "CC3"
+        ]
+    ],
+    "Promenade": [
+        73,
+        [
+            "CC4",
+            "DT15"
+        ]
+    ],
+    "Nicoll Highway": [
+        74,
+        [
+            "CC5"
+        ]
+    ],
+    "Stadium": [
+        75,
+        [
+            "CC6"
+        ]
+    ],
+    "Mountbatten": [
+        76,
+        [
+            "CC7"
+        ]
+    ],
+    "Dakota": [
+        77,
+        [
+            "CC8"
+        ]
+    ],
+    "MacPherson": [
+        78,
+        [
+            "CC10",
+            "DT26"
+        ]
+    ],
+    "Tai Seng": [
+        79,
+        [
+            "CC11"
+        ]
+    ],
+    "Bartley": [
+        80,
+        [
+            "CC12"
+        ]
+    ],
+    "Lorong Chuan": [
+        81,
+        [
+            "CC14"
+        ]
+    ],
+    "Marymount": [
+        82,
+        [
+            "CC16"
+        ]
+    ],
+    "Caldecott": [
+        83,
+        [
+            "CC17"
+        ]
+    ],
+    "Botanic Gardens": [
+        84,
+        [
+            "CC19",
+            "DT9"
+        ]
+    ],
+    "Farrer Road": [
+        85,
+        [
+            "CC20"
+        ]
+    ],
+    "Holland Village": [
+        86,
+        [
+            "CC21"
+        ]
+    ],
+    "one-north": [
+        87,
+        [
+            "CC23"
+        ]
+    ],
+    "Kent Ridge": [
+        88,
+        [
+            "CC24"
+        ]
+    ],
+    "Haw Par Villa": [
+        89,
+        [
+            "CC25"
+        ]
+    ],
+    "Pasir Panjang": [
+        90,
+        [
+            "CC26"
+        ]
+    ],
+    "Labrador Park": [
+        91,
+        [
+            "CC27"
+        ]
+    ],
+    "Telok Blangah": [
+        92,
+        [
+            "CC28"
+        ]
+    ],
+    "Bukit Panjang": [
+        93,
+        [
+            "DT1"
+        ]
+    ],
+    "Cashew": [
+        94,
+        [
+            "DT2"
+        ]
+    ],
+    "Hillview": [
+        95,
+        [
+            "DT3"
+        ]
+    ],
+    "Beauty World": [
+        96,
+        [
+            "DT5"
+        ]
+    ],
+    "King Albert Park": [
+        97,
+        [
+            "DT6"
+        ]
+    ],
+    "Sixth Avenue": [
+        98,
+        [
+            "DT7"
+        ]
+    ],
+    "Tan Kah Kee": [
+        99,
+        [
+            "DT8"
+        ]
+    ],
+    "Stevens": [
+        100,
+        [
+            "DT10"
+        ]
+    ],
+    "Rochor": [
+        101,
+        [
+            "DT13"
+        ]
+    ],
+    "Bayfront": [
+        102,
+        [
+            "DT16"
+        ]
+    ],
+    "Downtown": [
+        103,
+        [
+            "DT17"
+        ]
+    ],
+    "Telok Ayer": [
+        104,
+        [
+            "DT18"
+        ]
+    ],
+    "Fort Canning": [
+        105,
+        [
+            "DT20"
+        ]
+    ],
+    "Bencoolen": [
+        106,
+        [
+            "DT21"
+        ]
+    ],
+    "Jalan Besar": [
+        107,
+        [
+            "DT22"
+        ]
+    ],
+    "Bendemeer": [
+        108,
+        [
+            "DT23"
+        ]
+    ],
+    "Geylang Bahru": [
+        109,
+        [
+            "DT24"
+        ]
+    ],
+    "Mattar": [
+        110,
+        [
+            "DT25"
+        ]
+    ],
+    "Ubi": [
+        111,
+        [
+            "DT27"
+        ]
+    ],
+    "Kaki Bukit": [
+        112,
+        [
+            "DT28"
+        ]
+    ],
+    "Bedok North": [
+        113,
+        [
+            "DT29"
+        ]
+    ],
+    "Bedok Reservoir": [
+        114,
+        [
+            "DT30"
+        ]
+    ],
+    "Tampines West": [
+        115,
+        [
+            "DT31"
+        ]
+    ],
+    "Tampines East": [
+        116,
+        [
+            "DT33"
+        ]
+    ],
+    "Upper Changi": [
+        117,
+        [
+            "DT34"
+        ]
+    ],
+    "Expo": [
+        118,
+        [
+            "DT35"
+        ]
+    ]
+}
